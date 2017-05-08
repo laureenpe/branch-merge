@@ -1,2 +1,4 @@
 # branch-merge
 # este es el contenido de hello text
+# este es el contenido de hello text
+# este es el contenido en el master
